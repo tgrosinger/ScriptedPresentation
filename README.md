@@ -13,8 +13,9 @@ Stop copying and pasting commands during presentations. Use this template.
 ## How to Use
 
 * Clone this repo
-* Modify the examples in `presentation.sh` to suit your needs
-* Run `./presentation.sh` from outside tmux
+* Read comments in `scripted-presenter.sh` to understand the options
+* Copy `presentations/example-presentation.sh` and modify it to suit your needs
+* Run your presentation from outside tmux
 * Press <kbd>enter</kbd> to advance to next command
 
 ## How to Contribute
